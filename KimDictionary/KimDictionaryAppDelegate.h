@@ -3,7 +3,7 @@
 //  KimDictionary
 //
 //  Created by Николай Зайцев on 09.07.12.
-//  Copyright (c) 2012 iFree Innovations. All rights reserved.
+//  Copyright (c) 2012 iFree Innovations. All rights reserved, rofl!
 //
 
 // kdlj fklsdjfkdsdsf
